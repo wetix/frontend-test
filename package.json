@@ -1,0 +1,32 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "This test is mainly to test out the understanding of bundling.",
+  "main": "public/bundle.js",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "start": "sirv public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wetix/frontend-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wetix/frontend-test/issues"
+  },
+  "homepage": "https://github.com/wetix/frontend-test#readme",
+  "dependencies": {
+    "dayjs": "^1.10.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^11.1.0",
+    "rollup": "^2.37.1",
+    "rollup-plugin-livereload": "^2.0.0",
+    "sirv-cli": "^1.0.10"
+  }
+}
