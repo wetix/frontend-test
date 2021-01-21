@@ -42,12 +42,14 @@ Your dev server should run in port 9000.
 
 **4. Able to support typescript file**
 
-Your dev server should able compile typescript file.
+Your dev server should able to compile typescript file.
 
 <img width="50%" src="https://user-images.githubusercontent.com/28108597/105319529-f3ccb780-5bff-11eb-993f-b37a9d9aa6bd.png" alt="error" />
 
 **5. Able to import css file and compile to bundle.css**
 
-Your bundle.css should be reside in `public/bundle.css`
+Your bundle.css should be reside in `public/bundle.css`.
+
+<br/>
 
 To do this test, you should fork this repository and implement your solution inside your forked repository.
