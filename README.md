@@ -2,6 +2,8 @@
 
 > This test is mainly to test out the understanding of bundling and the difference between cjs, mjs and iife.
 
+## Mission: Complete the missing pieces of web bundling
+
 Instead of coding (every developer able to do that, even the juniors), you as a senior level should know what is web bundling for.
 
 Components required :
