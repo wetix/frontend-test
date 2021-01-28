@@ -1,4 +1,4 @@
-# Frontend Test
+# Frontend Test (Senior Level)
 
 > This test is mainly to test out the understanding of bundling and the difference between cjs, mjs and iife.
 
@@ -18,11 +18,11 @@ You will required to install some rollup plugins in order to make this work.
 Your should able to output following bundle files :
 
 - **bundle.js** (IIFE js file without minify)
-- **bundle.cjs** (Common js file without minify)
-- **bundle.mjs** (ES Module js file without minify)
+- **cjs/bundle.js** (Common js file without minify)
+- **esm/bundle.js** (ES Module js file without minify)
 - **bundle.min.js** (IIFE js file with minify)
-- **bundle.min.cjs** (Common js file with minify)
-- **bundle.min.mjs** (ES Module js file with minify)
+- **cjs/bundle.min.js** (Common js file with minify)
+- **esm/bundle.min.js** (ES Module js file with minify)
 
 <br/>
 
