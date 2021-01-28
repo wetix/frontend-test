@@ -17,12 +17,12 @@ You will required to install some rollup plugins in order to make this work.
 
 Your should able to output following bundle files :
 
-- bundle.js (IIFE js file without minify)
-- bundle.cjs (Common js file without minify)
-- bundle.mjs (ES Module js file without minify)
-- bundle.min.js (IIFE js file with minify)
-- bundle.min.cjs (Common js file with minify)
-- bundle.min.mjs (ES Module js file with minify)
+- **bundle.js** (IIFE js file without minify)
+- **bundle.cjs** (Common js file without minify)
+- **bundle.mjs** (ES Module js file without minify)
+- **bundle.min.js** (IIFE js file with minify)
+- **bundle.min.cjs** (Common js file with minify)
+- **bundle.min.mjs** (ES Module js file with minify)
 
 <br/>
 
