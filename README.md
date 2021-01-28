@@ -1,13 +1,15 @@
-# Frontend Test (Senior Level)
+# Frontend Interview Test (Senior Level)
 
 > This test is mainly to test out the understanding of bundling and the difference between cjs, mjs and iife.
+
+Instead of coding (every developer able to do that, even the juniors), you as a senior level should know what is web bundling for.
 
 Components required :
 
 - rollup@2.37.1
 
 Notes:
-You will required to install some rollup plugins in order to make this work.
+You will need to install some rollup plugins in order to make this work.
 
 ### Expected Result
 
