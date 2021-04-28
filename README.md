@@ -1,4 +1,4 @@
-# Frontend Interview Test (Senior/Pro Level)
+# Frontend Web Interview Test (Senior/Pro Level)
 
 > This test is mainly to test out the understanding of web bundling and the differences between cjs, mjs and iife files.
 
