@@ -1,10 +1,11 @@
-# Frontend Interview Test (Senior Level)
+# Frontend Interview Test (Senior/Pro Level)
 
-> This test is mainly to test out the understanding of bundling and the difference between cjs, mjs and iife.
+> This test is mainly to test out the understanding of web bundling and the differences between cjs, mjs and iife files.
 
 ## Mission: Complete the missing pieces of web bundling
 
-Instead of coding (every developer able to do that, even the juniors), you as a senior level should know what is web bundling for.
+Instead of coding (every developer able to do that, even the monkey), you as a senior/pro level should know how and what is web bundling for.
+
 
 Components required :
 
@@ -44,9 +45,9 @@ Your dev server should run in port 9000.
 
 <br/>
 
-**4. Able to support typescript file**
+**4. Able to support typescript and sass**
 
-Your dev server should able to compile typescript file.
+Your dev server should able to compile typescript and sass.
 
 <img width="50%" src="https://user-images.githubusercontent.com/28108597/105319529-f3ccb780-5bff-11eb-993f-b37a9d9aa6bd.png" alt="error" />
 

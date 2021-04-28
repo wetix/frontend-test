@@ -1,12 +1,12 @@
-<script>
+<script lang="ts">
   import { useForm, Field } from "svelte-reactive-form";
   import "./App.css";
 
-  const form$ = useForm({ validateOnChange: true });
+  const form$ = useForm<{ text: string }>({ validateOnChange: true });
   const { control } = form$;
 </script>
 
-<Field {control} let:onChange let:errors>
+<Field {control} name="text" let:onChange let:errors>
   <input type="text" on:input={onChange} />
   <div class="errors">
     {#each errors as item}
@@ -17,7 +17,7 @@
 
 {JSON.stringify($form$)}
 
-<style>
+<style lang="scss">
   .errors {
     color: red;
   }

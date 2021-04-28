@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/wetix/frontend-test#readme",
   "dependencies": {
-    "dayjs": "^1.10.3",
-    "svelte-reactive-form": "^0.9.3"
+    "dayjs": "^1.10.4",
+    "svelte-reactive-form": "^0.13.1"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^11.1.0",
@@ -28,6 +28,6 @@
     "rollup": "^2.37.1",
     "rollup-plugin-livereload": "^2.0.0",
     "sirv-cli": "^1.0.10",
-    "svelte": "^3.32.0"
+    "svelte": "^3.37.0"
   }
 }
